@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Data, models, results
-data/
+
 models/
 results/
