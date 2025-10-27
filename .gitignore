@@ -132,6 +132,8 @@ dmypy.json
 data/
 models/
 results/
+src/trackers/tracknet/data/
+src/trackers/yolo/data/
 
 # Video files
 src/trackers/yolo/videos/Clip1/
